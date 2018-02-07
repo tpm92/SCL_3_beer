@@ -11,3 +11,5 @@ CHEME 5500 lab 3
 =======
 94 bottles of beer on the wall, 94 bottles of beer. take one down pass it around 93 bottle of beer on the wall. 
 >>>>>>> fee816455f32fcff793650df08f21e8aa13fbd31
+92 bottles of beer on the wall, 92 bottles of beer. take one down pass it around 91 bottle of beer on the wall. 
+
